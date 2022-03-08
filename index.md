@@ -1,6 +1,6 @@
 ---
 title: "Computer Organization, IIIG"
-peramlink: /
+permalink: /
 layout: default
 ---
 
