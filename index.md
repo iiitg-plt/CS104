@@ -4,11 +4,10 @@ permalink: /
 layout: default
 ---
 
-# Computer Organization
 
 | Sl. No. | Date    | Topics  | Handouts| PPT     | Notes   |
 |---------|---------|---------|---------|---------|---------|
-|hey      | A       | B       | C       |  D      | E       |
+| 1       | NA      | Basic of Computer Architecture       | NA       |  NA      | NA       |
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
