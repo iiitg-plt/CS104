@@ -1,5 +1,5 @@
 ---
-title: "Computer Organization, IIIG"
+title: "Computer Organization, IIITG"
 permalink: /
 layout: default
 ---
