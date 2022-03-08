@@ -6,6 +6,6 @@ layout: default
 
 
 | Sl. No. | Date    | Topics  | Handouts| PPT     | Notes   |
-|---------|---------|---------|---------|---------|---------|
-| 1       | NA      | Basic of Computer Architecture in Greate       | NA       |  NA      | NA       |
+|:---:|:------------:|:-------------------------------------------:|:--------------------------: |:-------------------:|:--------------:|
+| 1   | 13-07-2022   | Basic of Computer Architecture in Greate    | NA       |  NA      | NA       |
 
