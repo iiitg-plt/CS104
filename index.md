@@ -8,6 +8,7 @@ layout: default
 
 | Sl. No. | Date    | Topics  | Handouts| PPT     | Notes   |
 |---------|---------|---------|---------|---------|---------|
+|hey      | A       | B       | C       |  D      | E       |
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
