@@ -7,5 +7,5 @@ layout: default
 
 | Sl. No. | Date    | Topics  | Slides   |
 |:---:|:------------:|:-------------------------------------------:|:--------------------------:|
-| 1   | 26-04-2022   | Introduction and Overview of Computer Architecture              | [I'm an inline-style link](https://www.google.com)                        |
+| 1   | 26-04-2022   | Introduction and Overview of Computer Architecture              | [26.04.2022](https://docs.google.com/presentation/d/1VHXMITVKyQ040kCwMCaVCOU_RfvAXn0a/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)                        |
 
