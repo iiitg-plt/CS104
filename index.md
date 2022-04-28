@@ -7,6 +7,9 @@ layout: default
 
 | Sl. No. | Date    | Topics  | Slides   |
 |:---:|:------------:|:-------------------------------------------:|:--------------------------:|
-| 1   | 26-04-2022   | Introduction and Overview of Computer Architecture              | [26.04.2022](https://drive.google.com/file/d/1OTT2f7ZHPYsKctRPWXaJGbbnaZ7aOk7Q/view?usp=sharing)|
-| 2   | 27-04-2022   | History & Background; Performance           |  [27.04.2022] (https://docs.google.com/presentation/d/1N-af8GEhuXrCf8SbMayjef5gOKzMxXfT/edit?usp=sharing&ouid=101425926698497533032&rtpof=true&sd=true)|
+| 1   | 26-04-2022   | Introduction & Overview of Comp. Arch.      | [26.04.2022](https://drive.google.com/file/d/1OTT2f7ZHPYsKctRPWXaJGbbnaZ7aOk7Q/view?usp=sharing)|
+| 2   | 27-04-2022   | History & Background; Performance           |  [27.04.2022](https://drive.google.com/file/d/1TKP54X6HOGOweGTmV7kjwtxOLJKsiHTh/view?usp=sharing)|
+| 4   | 27-04-2022   | Tutorial 1- Measuring Performance           |  [27.04.2022](https://drive.google.com/file/d/1oz5ENdr1jEoEYtUfdVWlfZpiiFGkTpyt/view?usp=sharing)|
+| 3   | 28-04-2022   | Computer Arithmetic Part 1                  |  [28.04.2022](https://drive.google.com/file/d/1mg6j-cIfr-p8D5Xn-aWD06tN_v1Y1jRP/view?usp=sharing)|
+
 
