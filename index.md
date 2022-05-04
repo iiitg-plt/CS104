@@ -13,6 +13,8 @@ layout: default
 | 4   | 28-04-2022   | Computer Arithmetic Part 1                  |  [28.04.2022](https://drive.google.com/file/d/1mg6j-cIfr-p8D5Xn-aWD06tN_v1Y1jRP/view?usp=sharing)|
 | 5   | 02-05-2022   | Computer Arithmetic Part 2                  |  [02.05.2022](https://drive.google.com/file/d/1TaPuCs-61q65sb2OM-W8-xhwDMXo4MeG/view?usp=sharing)|
 | 6   | 04-05-2022   | Computer Arithmetic Part 3                  |  [04.05.2022]()|
+| 7   | 04-05-2022   | Tutorial 2- Computer Arithmetic             |  [04.05.2022]()|
+
 
 
 
