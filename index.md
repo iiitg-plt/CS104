@@ -12,8 +12,9 @@ layout: default
 | 3   | 27-04-2022   | Tutorial 1- Measuring Performance           |  [27.04.2022](https://drive.google.com/file/d/1oz5ENdr1jEoEYtUfdVWlfZpiiFGkTpyt/view?usp=sharing)|
 | 4   | 28-04-2022   | Computer Arithmetic Part 1                  |  [28.04.2022](https://drive.google.com/file/d/1mg6j-cIfr-p8D5Xn-aWD06tN_v1Y1jRP/view?usp=sharing)|
 | 5   | 02-05-2022   | Computer Arithmetic Part 2                  |  [02.05.2022](https://drive.google.com/file/d/1TaPuCs-61q65sb2OM-W8-xhwDMXo4MeG/view?usp=sharing)|
-| 6   | 04-05-2022   | Computer Arithmetic Part 3                  |  [04.05.2022]()|
-| 7   | 04-05-2022   | Tutorial 2- Computer Arithmetic             |  [04.05.2022]()|
+| 6   | 04-05-2022   | Computer Arithmetic Part 3                  |  [04.05.2022](https://drive.google.com/file/d/1dFDUL743jYgJIO2UhAICQ2DZdxWGcXeo/view?usp=sharing)|
+| 7   | 04-05-2022   | Tutorial 2- Computer Arithmetic             |  [04.05.2022](https://drive.google.com/file/d/1hT5TV3FF6Vp67eeZTv_4Nws-1pDzN1ts/view?usp=sharing)|
+| 8   | 05-05-2022   | Computer Arithmetic Part 4                  |  [05.05.2022](https://drive.google.com/file/d/16y76uyucVCJOjf1Ds2tzLztph-BA_aAa/view?usp=sharing)|
 
 
 
