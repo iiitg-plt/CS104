@@ -15,6 +15,12 @@ layout: default
 | 6   | 04-05-2022   | Computer Arithmetic Part 3                  |  [04.05.2022](https://drive.google.com/file/d/1dFDUL743jYgJIO2UhAICQ2DZdxWGcXeo/view?usp=sharing)|
 | 7   | 04-05-2022   | Tutorial 2- Computer Arithmetic             |  [04.05.2022](https://drive.google.com/file/d/1hT5TV3FF6Vp67eeZTv_4Nws-1pDzN1ts/view?usp=sharing)|
 | 8   | 05-05-2022   | Computer Arithmetic Part 4                  |  [05.05.2022](https://drive.google.com/file/d/16y76uyucVCJOjf1Ds2tzLztph-BA_aAa/view?usp=sharing)|
+| 9   | 09-05-2022   | Instruction Set Architecture                |  [09.05.2022](https://drive.google.com/file/d/1eXkAvTe2KaEMu3xJbSE1ykGC297TJDv_/view?usp=sharing)|
+| 10  | 10-05-2022   | Addressing Modes                            |  [10.05.2022](https://drive.google.com/file/d/1sz8bXBkJ0EGMGDaRgK4-_PQdLOKarcRV/view?usp=sharing)|
+| 11  | 11-05-2022   | MIPS Instruction                            |  [11.05.2022](https://drive.google.com/file/d/1pan4XlSzDke73T0x6VQ3gVw5ctpHnhv1/view?usp=sharing)|
+| 12  | 11-05-2022   | Tutorial 3 - IEEE Floating Point Arithmetic |  [To be uploaded]()|
+
+
 
 
 
