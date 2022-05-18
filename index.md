@@ -22,6 +22,9 @@ layout: default
 | 13  | 17-05-2022   | MIPS- Lecture 2                             |  [17.05.2022](https://drive.google.com/file/d/1eUNaxWg7VI76s2O72cLYr3kQeow_I2mV/view?usp=sharing)|
 
 
+Download QTSpim- [Link](https://sourceforge.net/projects/spimsimulator/files/latest/download)
+
+
 
 
 
