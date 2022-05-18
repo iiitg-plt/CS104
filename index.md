@@ -17,7 +17,7 @@ layout: default
 | 8   | 05-05-2022   | Computer Arithmetic Part 4                  |  [05.05.2022](https://drive.google.com/file/d/16y76uyucVCJOjf1Ds2tzLztph-BA_aAa/view?usp=sharing)|
 | 9   | 09-05-2022   | Instruction Set Architecture                |  [09.05.2022](https://drive.google.com/file/d/1eXkAvTe2KaEMu3xJbSE1ykGC297TJDv_/view?usp=sharing)|
 | 10  | 10-05-2022   | Addressing Modes                            |  [10.05.2022](https://drive.google.com/file/d/1sz8bXBkJ0EGMGDaRgK4-_PQdLOKarcRV/view?usp=sharing)|
-| 11  | 11-05-2022   | MIPS Instruction                            |  [11.05.2022](https://drive.google.com/file/d/1pan4XlSzDke73T0x6VQ3gVw5ctpHnhv1/view?usp=sharing)[MIPS ISA](https://drive.google.com/file/d/1_DzUWyY0eYzyKRLPTE8c6bL23EqBsNW0/view?usp=sharing)|
+| 11  | 11-05-2022   | MIPS Instruction, [MIPS ISA](https://drive.google.com/file/d/1_DzUWyY0eYzyKRLPTE8c6bL23EqBsNW0/view?usp=sharing)                           |  [11.05.2022](https://drive.google.com/file/d/1pan4XlSzDke73T0x6VQ3gVw5ctpHnhv1/view?usp=sharing)|
 | 12  | 11-05-2022   | Tutorial 3 - IEEE Floating Point Arithmetic |  [11.05.2022](https://drive.google.com/file/d/17QcFmrMgoIxCsg9RaGeO-obySuPF9_Pq/view?usp=sharing)|
 | 13  | 17-05-2022   | MIPS- Lecture 2                             |  [17.05.2022](https://drive.google.com/file/d/1eUNaxWg7VI76s2O72cLYr3kQeow_I2mV/view?usp=sharing)|
 | 14  | 18-05-2022   | MIPS- Lecture 3                             |  [18.05.2022](https://drive.google.com/file/d/1b-Dv4xJmeUuNWkz7CmaC1lIyQQSnZwOh/view?usp=sharing)|
