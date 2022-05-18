@@ -25,7 +25,7 @@ layout: default
 
 Download QTSpim- [Link](https://sourceforge.net/projects/spimsimulator/files/latest/download)
 
-Important Announcement: First Quiz will be conducted on 25.05.2022 (Wednesday) (Syllabus- Sl.No-1 till Sl. No. 14 i.e. till MIPS-Lecture 3)
+Important Announcement: First Quiz will be conducted on 25.05.2022 (Wednesday) (Syllabus- Sl.No-1 to Sl. No. 14 i.e. till MIPS-Lecture 3)
 
 
 
