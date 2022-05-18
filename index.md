@@ -20,9 +20,12 @@ layout: default
 | 11  | 11-05-2022   | MIPS Instruction                            |  [11.05.2022](https://drive.google.com/file/d/1pan4XlSzDke73T0x6VQ3gVw5ctpHnhv1/view?usp=sharing)|
 | 12  | 11-05-2022   | Tutorial 3 - IEEE Floating Point Arithmetic |  [11.05.2022](https://drive.google.com/file/d/17QcFmrMgoIxCsg9RaGeO-obySuPF9_Pq/view?usp=sharing)|
 | 13  | 17-05-2022   | MIPS- Lecture 2                             |  [17.05.2022](https://drive.google.com/file/d/1eUNaxWg7VI76s2O72cLYr3kQeow_I2mV/view?usp=sharing)|
+| 14  | 18-05-2022   | MIPS- Lecture 3                             |  [18.05.2022](https://drive.google.com/file/d/1b-Dv4xJmeUuNWkz7CmaC1lIyQQSnZwOh/view?usp=sharing)|
 
 
 Download QTSpim- [Link](https://sourceforge.net/projects/spimsimulator/files/latest/download)
+
+Important Announcement: First Quiz will be conducted on 25.05.2022 (Wednesday)
 
 
 
