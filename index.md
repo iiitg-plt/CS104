@@ -21,7 +21,8 @@ layout: default
 | 12  | 11-05-2022   | Tutorial 3 - IEEE Floating Point Arithmetic |  [11.05.2022](https://drive.google.com/file/d/17QcFmrMgoIxCsg9RaGeO-obySuPF9_Pq/view?usp=sharing)|
 | 13  | 17-05-2022   | MIPS- Lecture 2                             |  [17.05.2022](https://drive.google.com/file/d/1eUNaxWg7VI76s2O72cLYr3kQeow_I2mV/view?usp=sharing)|
 | 14  | 18-05-2022   | MIPS- Lecture 3                             |  [18.05.2022](https://drive.google.com/file/d/1b-Dv4xJmeUuNWkz7CmaC1lIyQQSnZwOh/view?usp=sharing)|
-
+| 15  | 19-05-2022   | Tutorials 4 - MIPS                          |  [19.05.2022](https://drive.google.com/file/d/1tucMNwNCg8yybHoQPBaqonoY_rvm_4SJ/view?usp=sharing)|
+| 16  | 19-05-2022   | Processor Design- Design of a Control Unit-1|  [19.05.2022](https://drive.google.com/file/d/1prEwQxm1NWLBd22wHGs5O6OsYuCNv4eE/view?usp=sharing)|
 
 Download QTSpim- [Link](https://sourceforge.net/projects/spimsimulator/files/latest/download)
 
