@@ -24,7 +24,7 @@ layout: default
 | 15  | 19-05-2022   | Tutorials 4 - MIPS                          |  [19.05.2022](https://drive.google.com/file/d/1tucMNwNCg8yybHoQPBaqonoY_rvm_4SJ/view?usp=sharing)|
 | 16  | 19-05-2022   | Processor Design- Design of a Control Unit-1|  [19.05.2022](https://drive.google.com/file/d/1prEwQxm1NWLBd22wHGs5O6OsYuCNv4eE/view?usp=sharing)|
 
-Download QTSpim- [Link](https://sourceforge.net/projects/spimsimulator/files/latest/download)
+
 
 Important Announcement: First Quiz will be conducted on 25.05.2022 (Wednesday) (Syllabus- Sl.No-1 to Sl. No. 14 i.e. till MIPS-Lecture 3)
 
