@@ -23,6 +23,9 @@ layout: default
 | 14  | 18-05-2022   | MIPS- Lecture 3                             |  [18.05.2022](https://drive.google.com/file/d/1b-Dv4xJmeUuNWkz7CmaC1lIyQQSnZwOh/view?usp=sharing)|
 | 15  | 19-05-2022   | Tutorials 4 - MIPS                          |  [19.05.2022](https://drive.google.com/file/d/1tucMNwNCg8yybHoQPBaqonoY_rvm_4SJ/view?usp=sharing)|
 | 16  | 19-05-2022   | Processor Design- Design of a Control Unit-1|  [19.05.2022](https://drive.google.com/file/d/1prEwQxm1NWLBd22wHGs5O6OsYuCNv4eE/view?usp=sharing)|
+| 17  | 23-05-2022   | Processor Design- Design of a Control Unit-2|  [23.05.2022](https://drive.google.com/file/d/1aX0Vrv7A14JXPbHbwkoI10Wzl4u7M6F5/view?usp=sharing)|
+| 18  | 24-05-2022   | Control Signals & Hardwired Control Unit    |  [24.05.2022](https://drive.google.com/file/d/1ocVsZ_ed7C9KWQHO_kBzfp7ZemLixiQk/view?usp=sharing)|
+| 19  | 25-05-2022   | Quiz-1|  [25.05.2022]()|
 
 
 
