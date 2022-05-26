@@ -27,7 +27,7 @@ layout: default
 | 18  | 24-05-2022   | Control Signals & Hardwired Control Unit    |  [24.05.2022](https://drive.google.com/file/d/1ocVsZ_ed7C9KWQHO_kBzfp7ZemLixiQk/view?usp=sharing)|
 | 19  | 25-05-2022   | Quiz-1|  [25.05.2022]()                     |
 | 20  | 26-05-2022   | Microprogrammed Control Unit                |  [26.05.2022](https://drive.google.com/file/d/1Gy98bp0rumuZGW1bcy4umG81gYhlQAUa/view?usp=sharing)|
-| 21  | 26-05-2022   | Tutorial 5 - MIPS                          |  [26.05.2022]()|
+| 21  | 26-05-2022   | Tutorial 5 - MIPS                          |  [26.05.2022](https://drive.google.com/file/d/1mnPWKgPcKpGI_kiNPs6VsWz6_MeF9236/view?usp=sharing)|
 
 
 
