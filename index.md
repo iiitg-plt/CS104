@@ -25,7 +25,10 @@ layout: default
 | 16  | 19-05-2022   | Processor Design- Design of a Control Unit-1|  [19.05.2022](https://drive.google.com/file/d/1prEwQxm1NWLBd22wHGs5O6OsYuCNv4eE/view?usp=sharing)|
 | 17  | 23-05-2022   | Processor Design- Design of a Control Unit-2|  [23.05.2022](https://drive.google.com/file/d/1aX0Vrv7A14JXPbHbwkoI10Wzl4u7M6F5/view?usp=sharing)|
 | 18  | 24-05-2022   | Control Signals & Hardwired Control Unit    |  [24.05.2022](https://drive.google.com/file/d/1ocVsZ_ed7C9KWQHO_kBzfp7ZemLixiQk/view?usp=sharing)|
-| 19  | 25-05-2022   | Quiz-1|  [25.05.2022]()|
+| 19  | 25-05-2022   | Quiz-1|  [25.05.2022]()                     |
+| 20  | 26-05-2022   | Microprogrammed Control Unit                |  [26.05.2022](https://drive.google.com/file/d/1Gy98bp0rumuZGW1bcy4umG81gYhlQAUa/view?usp=sharing)|
+| 21  | 26-05-2022   | Tutorials 5 - MIPS                          |  [26.05.2022]()|
+
 
 
 
