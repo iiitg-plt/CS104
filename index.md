@@ -32,7 +32,7 @@ layout: default
 
 
 
-Important Announcement: First Quiz will be conducted on 25.05.2022 (Wednesday) (Syllabus- Sl.No-1 to Sl. No. 14 i.e. till MIPS-Lecture 3)
+
 
 
 
