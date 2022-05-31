@@ -28,7 +28,11 @@ layout: default
 | 19  | 25-05-2022   | Quiz-1|  [25.05.2022]()                     |
 | 20  | 26-05-2022   | Microprogrammed Control Unit                |  [26.05.2022](https://drive.google.com/file/d/1Gy98bp0rumuZGW1bcy4umG81gYhlQAUa/view?usp=sharing)|
 | 21  | 26-05-2022   | Tutorial 5 - MIPS                          |  [26.05.2022](https://drive.google.com/file/d/1mnPWKgPcKpGI_kiNPs6VsWz6_MeF9236/view?usp=sharing)|
-
+| 22  | 30-05-2022   | MIPS Datapath                              |  [30.05.2022](https://drive.google.com/file/d/1JHqUtGhG7Zse6Cqp6OuC7euQ6srSrtrS/view?usp=sharing)|
+| 23  | 31-05-2022   | Pipelining                                 |  [31.05.2022](https://drive.google.com/file/d/1jEV2iDHEVEBsF5hu85avyHzQDM8tV9A5/view?usp=sharing)|
+| 24  | 01-06-2022   | Tutorial 6 - MIPS                            | [01.06.2022]()|
+| 25  | 01-06-2022   | Revision Mid Semester                          | [01.06.2022]()|
+| 26  | 02-06-2022   | Revision Mid Semester                           | [02.06.2022]()|
 
 
 
