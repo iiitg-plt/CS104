@@ -30,7 +30,7 @@ layout: default
 | 21  | 26-05-2022   | Tutorial 5 - MIPS                          |  [26.05.2022](https://drive.google.com/file/d/1mnPWKgPcKpGI_kiNPs6VsWz6_MeF9236/view?usp=sharing)|
 | 22  | 30-05-2022   | MIPS Datapath                              |  [30.05.2022](https://drive.google.com/file/d/1JHqUtGhG7Zse6Cqp6OuC7euQ6srSrtrS/view?usp=sharing)|
 | 23  | 31-05-2022   | Pipelining                                 |  [31.05.2022](https://drive.google.com/file/d/1jEV2iDHEVEBsF5hu85avyHzQDM8tV9A5/view?usp=sharing)|
-| 24  | 01-06-2022   | Tutorial 6 - MIPS                            | [01.06.2022]()|
+| 24  | 01-06-2022   | Tutorial 6 - MIPS                            | [01.06.2022](https://drive.google.com/file/d/1SG3iPIJWDdImaf9CvYufWrM_3dWu6sAx/view?usp=sharing)|
 | 25  | 01-06-2022   | Revision Mid Semester                          | [01.06.2022]()|
 | 26  | 02-06-2022   | Revision Mid Semester                           | [02.06.2022]()|
 
