@@ -19,18 +19,21 @@ layout: default
 | 12  | 11-05-2022   | Tutorial 3 - IEEE Floating Point Arithmetic |  [11.05.2022](https://drive.google.com/file/d/17QcFmrMgoIxCsg9RaGeO-obySuPF9_Pq/view?usp=sharing)|
 | 13  | 17-05-2022   | MIPS- Lecture 2                             |  [17.05.2022](https://drive.google.com/file/d/1eUNaxWg7VI76s2O72cLYr3kQeow_I2mV/view?usp=sharing)|
 | 14  | 18-05-2022   | MIPS- Lecture 3                             |  [18.05.2022](https://drive.google.com/file/d/1b-Dv4xJmeUuNWkz7CmaC1lIyQQSnZwOh/view?usp=sharing)|
-| 15  | 19-05-2022   | Tutorial 4 - MIPS                          |  [19.05.2022](https://drive.google.com/file/d/1tucMNwNCg8yybHoQPBaqonoY_rvm_4SJ/view?usp=sharing)|
+| 15  | 19-05-2022   | Tutorial 4 - MIPS                           |  [19.05.2022](https://drive.google.com/file/d/1tucMNwNCg8yybHoQPBaqonoY_rvm_4SJ/view?usp=sharing)|
 | 16  | 19-05-2022   | Processor Design- Design of a Control Unit-1|  [19.05.2022](https://drive.google.com/file/d/1prEwQxm1NWLBd22wHGs5O6OsYuCNv4eE/view?usp=sharing)|
 | 17  | 23-05-2022   | Processor Design- Design of a Control Unit-2|  [23.05.2022](https://drive.google.com/file/d/1aX0Vrv7A14JXPbHbwkoI10Wzl4u7M6F5/view?usp=sharing)|
 | 18  | 24-05-2022   | Control Signals & Hardwired Control Unit    |  [24.05.2022](https://drive.google.com/file/d/1ocVsZ_ed7C9KWQHO_kBzfp7ZemLixiQk/view?usp=sharing)|
 | 19  | 25-05-2022   | Quiz-1|  [25.05.2022]()                     |
 | 20  | 26-05-2022   | Microprogrammed Control Unit                |  [26.05.2022](https://drive.google.com/file/d/1Gy98bp0rumuZGW1bcy4umG81gYhlQAUa/view?usp=sharing)|
-| 21  | 26-05-2022   | Tutorial 5 - MIPS                          |  [26.05.2022](https://drive.google.com/file/d/1mnPWKgPcKpGI_kiNPs6VsWz6_MeF9236/view?usp=sharing)|
-| 22  | 30-05-2022   | MIPS Datapath                              |  [30.05.2022](https://drive.google.com/file/d/1JHqUtGhG7Zse6Cqp6OuC7euQ6srSrtrS/view?usp=sharing)|
-| 23  | 31-05-2022   | Pipelining                                 |  [31.05.2022](https://drive.google.com/file/d/1jEV2iDHEVEBsF5hu85avyHzQDM8tV9A5/view?usp=sharing)|
-| 24  | 01-06-2022   | Tutorial 6 - MIPS                            | [01.06.2022](https://drive.google.com/file/d/1SG3iPIJWDdImaf9CvYufWrM_3dWu6sAx/view?usp=sharing)|
-| 25  | 01-06-2022   | Revision Mid Semester                          | [01.06.2022]()|
-| 26  | 02-06-2022   | Revision Mid Semester                           | [02.06.2022]()|
+| 21  | 26-05-2022   | Tutorial 5 - MIPS                           |  [26.05.2022](https://drive.google.com/file/d/1mnPWKgPcKpGI_kiNPs6VsWz6_MeF9236/view?usp=sharing)|
+| 22  | 30-05-2022   | MIPS Datapath                               |  [30.05.2022](https://drive.google.com/file/d/1JHqUtGhG7Zse6Cqp6OuC7euQ6srSrtrS/view?usp=sharing)|
+| 23  | 31-05-2022   | Pipelining                                  |  [31.05.2022](https://drive.google.com/file/d/1jEV2iDHEVEBsF5hu85avyHzQDM8tV9A5/view?usp=sharing)|
+| 24  | 01-06-2022   | Tutorial 6 - MIPS                           |  [01.06.2022](https://drive.google.com/file/d/1SG3iPIJWDdImaf9CvYufWrM_3dWu6sAx/view?usp=sharing)|
+| 25  | 01-06-2022   | Revision Mid Semester                       | [01.06.2022]()|
+| 26  | 02-06-2022   | Revision Mid Semester                       | [02.06.2022]()|
+| 27  | 13-06-2022   | Pipelining                                  | [13.06.2022](https://drive.google.com/file/d/15en4aqXXWMSdi7wGsHWLIlySDXB4JlvC/view?usp=sharing)|
+| 28  | 14-06-2022   | -Continue-                                  | - " -|
+
 
 
 
