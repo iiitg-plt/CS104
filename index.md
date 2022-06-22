@@ -36,9 +36,9 @@ layout: default
 | 29  | 15-06-2022   | Pipelining-Hazards Examples                 | [15.06.2022](https://drive.google.com/file/d/19Z3rEF53G-o66fPcXvDHONucA10lPOcS/view?usp=sharing)|
 | 30  | 15-06-2022   | Pipelining Tutorials based on Performance   | Refer Textbook                                                                                  |
 | 31  | 16-06-2022   | Pipeling Discussion                         | -Continuation from previous topics-                                                             |
-| 32  | 20-06-2022   | Introduction to Memory                      | [20.06.2022] (https://drive.google.com/file/d/1x0DWQRMQYTM4ECwpsiCunz_4l8s2NUA7/view?usp=sharing)|
-| 33  | 21-06-2022   | Memory Interleaving                         | [21.06.2022] (https://drive.google.com/file/d/1xGbifN0-8-AL_QI__rnf3PtXJmQBReJg/view?usp=sharing)|
-| 34  | 22-06-2022   | Cache Memory                                | [22.06.2022] (https://drive.google.com/file/d/1IRhBoz1PEaUmR4eejRoP80Y1M0rvOglN/view?usp=sharing)|
+| 32  | 20-06-2022   | Introduction to Memory                      | [20.06.2022](https://drive.google.com/file/d/1x0DWQRMQYTM4ECwpsiCunz_4l8s2NUA7/view?usp=sharing)|
+| 33  | 21-06-2022   | Memory Interleaving                         | [21.06.2022](https://drive.google.com/file/d/1xGbifN0-8-AL_QI__rnf3PtXJmQBReJg/view?usp=sharing)|
+| 34  | 22-06-2022   | Cache Memory                                | [22.06.2022](https://drive.google.com/file/d/1IRhBoz1PEaUmR4eejRoP80Y1M0rvOglN/view?usp=sharing)|
 
 The Tutorial for G3 and G4 this week will be conducted on Friday at 2:00 pm.
 
