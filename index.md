@@ -4,7 +4,7 @@ permalink: /
 layout: default
 ---
 | Sl. No. | Date    | Topics  | Slides   |
-|:---:|:-----------------:|:-------------------------------------------:|:--------------------------:|
+|:---:|:-----------------:|:----------------------------------------------------------------------:|:--------------------------:|
 | 1   | 26-04-2022   | Introduction & Overview of Comp. Arch.      | [26.04.2022](https://drive.google.com/file/d/1OTT2f7ZHPYsKctRPWXaJGbbnaZ7aOk7Q/view?usp=sharing)|
 | 2   | 27-04-2022   | History & Background; Performance           |  [27.04.2022](https://drive.google.com/file/d/1OvUjXZD7jPp3JEolteK2hdTt8hF7DsBc/view?usp=sharing)|
 | 3   | 27-04-2022   | Tutorial 1- Measuring Performance           |  [27.04.2022](https://drive.google.com/file/d/1oz5ENdr1jEoEYtUfdVWlfZpiiFGkTpyt/view?usp=sharing)|
@@ -38,7 +38,10 @@ layout: default
 | 31  | 16-06-2022   | Pipelining Discussion                       | -Continuation-                                                             |
 | 32  | 20-06-2022   | Introduction to Memory                      | [20.06.2022](https://drive.google.com/file/d/1x0DWQRMQYTM4ECwpsiCunz_4l8s2NUA7/view?usp=sharing)|
 | 33  | 21-06-2022   | Memory Interleaving                         | [21.06.2022](https://drive.google.com/file/d/1xGbifN0-8-AL_QI__rnf3PtXJmQBReJg/view?usp=sharing)|
-| 34  | 22-06-2022   | Cache Memory                                | [22.06.2022](https://drive.google.com/file/d/1IRhBoz1PEaUmR4eejRoP80Y1M0rvOglN/view?usp=sharing)|
+| 34  | 22-06-2022   | Cache Memory-Part 1                         | [22.06.2022](https://drive.google.com/file/d/1IRhBoz1PEaUmR4eejRoP80Y1M0rvOglN/view?usp=sharing)|
+| 35  | 22-06-2022   | Cache Memory-Part 2                         | [23.06.2022]()|
+
+
 
 The Tutorial for G3 and G4 this week will be conducted on Friday at 2:00 pm.
 
