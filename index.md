@@ -40,21 +40,9 @@ layout: default
 | 33  | 21-06-2022   | Memory Interleaving                         | [21.06.2022](https://drive.google.com/file/d/1xGbifN0-8-AL_QI__rnf3PtXJmQBReJg/view?usp=sharing)|
 | 34  | 22-06-2022   | Cache Memory-Part 1                         | [22.06.2022](https://drive.google.com/file/d/1IRhBoz1PEaUmR4eejRoP80Y1M0rvOglN/view?usp=sharing)|
 | 35  | 23-06-2022   | Cache Memory-Part 2                         | [23.06.2022](https://drive.google.com/file/d/1OWhDGPNjjCWlXCrNXea9Cjw50N4HI_OB/view?usp=sharing)|
-
-
-
-The Tutorial for G3 and G4 this week will be conducted on Friday at 2:00 pm.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 36  | 23-06-2022   | Cache Memory-Discussion                     |  -Continue- |
+| 37  | 29-06-2022   | External storage Drive                      | [29.06.2022](https://drive.google.com/file/d/1q340k997xbX6W2NW2VAQ_QrBW_yIt410/view?usp=sharing)|
+| 38  | 29-07-2022-B | External storage Drive- Part B            | [29.06.2022-B](https://drive.google.com/file/d/1yE-GuZH4voZhCNcRGjzjHqeEcaesH8ID/view?usp=sharing)|
+| 39  | 04-07-2022   | RAID                                       | [04.07.2022](https://drive.google.com/file/d/19MFveA5RpDPOB966ZkOfGF5kZySUq6a1/view?usp=sharing)|
+| 40  | 05-07-2022   | SSD and Hamming Code                       |[05.07.2022](https://drive.google.com/file/d/199Qr8Nbq1hWcEjMgJb3zV_ZZz72aogVT/view?usp=sharing) |
+| 41  | 06-07-2022   | -Continue  -                                |-Continue- |
