@@ -47,3 +47,6 @@ layout: default
 | 40  | 04-07-2022   | RAID                                       | [04.07.2022](https://drive.google.com/file/d/19MFveA5RpDPOB966ZkOfGF5kZySUq6a1/view?usp=sharing)|
 | 41  | 05-07-2022   | SSD and Hamming Code                       |[05.07.2022](https://drive.google.com/file/d/199Qr8Nbq1hWcEjMgJb3zV_ZZz72aogVT/view?usp=sharing) |
 | 42  | 06-07-2022   | -Continue  -                                |-"- |
+| 43  | 11-07-2022   | I/O and Buses                                |[11.07.2022](https://drive.google.com/file/d/1Rn6uMHH9bg_Jm5CGH0Ey1GH_Nm4Wjxw8/view?usp=sharing) |
+| 44  | 12-07-2022   | -Continue-                                | -""-|
+| 45  | 18-07-2022   | -Continue                                | -""-|
