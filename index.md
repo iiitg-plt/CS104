@@ -51,3 +51,10 @@ layout: default
 | 44  | 12-07-2022   | -Continue-                                | -""-|
 | 45  | 18-07-2022   | -Continue                                | -""-|
 
+The syllabus for the supplementary exam is the same as that of the End-Semester and it includes all topics (before and after midsem). 
+
+However, we have decided to exclude the following topics:-
+1. Unsigned Multiplications
+2. Booth's Multiplications
+3. Division Algorithm (Both restoring and non-restoring algorithm).
+4. MIPS program will not come. But its concept may come as objective types. You will not be asked to write a MIPS program.
