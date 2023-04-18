@@ -1,4 +1,4 @@
-### Anouncement: There will be a theory class for Section S11 instead of a tutorial class (G11) on the 19.04.2023 (Wednesday) from 4:00 - 4:55 pm. The tutorial class for G11 will be conducted on Friday 9:00 -9:55 am at LG-1 itself. This adjustment is only for this week.
+### Anouncement: There will be a theory class for Section S11 instead of a tutorial class (G11) on 19.04.2023 (Wednesday) from 4:00 - 4:55 pm. The tutorial class for G11 will be conducted on Friday 9:00 -9:55 am at LG-1 itself. This adjustment is only for this week.
 
 
 
