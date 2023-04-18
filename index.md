@@ -6,6 +6,7 @@
 | 3   | 11-04-2023   |Lecture 2- History and Measuring Performance| [11.04.2023](https://drive.google.com/file/d/1CfPo5M1eXADKDUFuoPE2YYc_rg9S8scH/view?usp=share_link)|
 | 4   | 12-04-2023   |Lecture 3- CPU Performance| [12.04.2023](https://drive.google.com/file/d/18fOuj6Fx1Szx9evvrYD9XPpvE_hYFKYD/view?usp=share_link)|
 | 5   | 12-04-2023   |Tutorial 2- CPU Performance| [T2-12.04.2023](https://drive.google.com/file/d/1E7renK2SqkW91p7BlaDFHWnKS-9HSCgX/view?usp=share_link)|
+| 6   | 18-04-2023   |Lecture 4- Performance and Benchmark| [18.04.2023](https://drive.google.com/file/d/1w19VindUhXG4hCrI9l8pct_0QqVHZIYm/view?usp=share_link)|
 
 
 
