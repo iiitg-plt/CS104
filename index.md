@@ -1,4 +1,4 @@
-### The tutorial class for G11 will be conducted on Friday 9:00 -9:55 am at LG-1 itself. The adjustment is only for this week.
+### The tutorial class for G11 will be conducted on Friday 9:00 - 9:55 am, venue- LG-1 itself. 
 
 
 
