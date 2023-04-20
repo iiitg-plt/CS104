@@ -11,7 +11,7 @@
 | 5   | 12-04-2023   |Tutorial 2- CPU Performance| [T2-12.04.2023](https://drive.google.com/file/d/1E7renK2SqkW91p7BlaDFHWnKS-9HSCgX/view?usp=share_link)|
 | 6   | 18-04-2023   |Lecture 4- Performance and Benchmark| [18.04.2023](https://drive.google.com/file/d/1w19VindUhXG4hCrI9l8pct_0QqVHZIYm/view?usp=share_link)|
 | 7   | 19-04-2023   |Lecture 5- Benchmark            | [19.04.2023](https://drive.google.com/file/d/18hV0t_pMiNTl-DObhbRFimIjtQF09-7d/view?usp=share_link)|
-
+| 8   | 20-04-2023   |Lecture 6- Amdahl's Law         | [20.04.2023](https://drive.google.com/file/d/1ihseOGxxuCNjzEY7CRF10lZVchlaKvNr/view?usp=share_link)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
