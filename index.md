@@ -1,6 +1,3 @@
-### The tutorial class for G11 will be conducted on Friday 9:00 - 9:55 am, venue- LG-1.
-
-
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
