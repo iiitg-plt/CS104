@@ -11,5 +11,6 @@
 | 8   | 20-04-2023   |Lecture 6- Amdahl's Law                | [20.04.2023](https://drive.google.com/file/d/1ihseOGxxuCNjzEY7CRF10lZVchlaKvNr/view?usp=share_link)|
 | 9   | 21-04-2023   |Tutorial 3- Performance and MIPS rating| [T3-21.04.2023](https://drive.google.com/file/d/12pWjeU_It2F1WAX2H5A9wUUdsF4acdrj/view?usp=share_link)|
 | 10   | 25-04-2023   |Lecture 7- Basics of Instruction Execution| [25.04.2023](https://drive.google.com/file/d/1z7r95xtcQa2i6rByawWUaSfobOC-H5z7/view?usp=share_link)|
+| 11   | 26-04-2023   |Lecture 7- Memory, Languagues, Compiler and Assembler| [26.04.2023](https://drive.google.com/file/d/1RIfRh3UTI_1OQd_1OmlvLSsVLDT3-MsU/view?usp=share_link)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
