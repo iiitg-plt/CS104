@@ -13,5 +13,8 @@
 | 10   | 25-04-2023   |Lecture 7- Basics of Instruction Execution| [25.04.2023](https://drive.google.com/file/d/1z7r95xtcQa2i6rByawWUaSfobOC-H5z7/view?usp=share_link)|
 | 11   | 26-04-2023   |Lecture 8- Memory, Languagues, Compiler and Assembler| [26.04.2023](https://drive.google.com/file/d/1RIfRh3UTI_1OQd_1OmlvLSsVLDT3-MsU/view?usp=share_link)|
 | 12   | 27-04-2023   |Lecture 9- Basics of Instruction Execution| [27.04.2023](https://drive.google.com/file/d/1RdpqdYWVnJLHa5gq6nLRA8w1biC8Jqdr/view?usp=share_link)|
+| 13   | 27-04-2023   |Tutorial 4- Ahmdahl's Law            | [T4-27.04.2023](https://drive.google.com/file/d/1aR2TuIKSF4kfBZKjR8br51UXEb8PSmUw/view?usp=share_link)|
+
+
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
