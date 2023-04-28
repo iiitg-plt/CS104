@@ -16,5 +16,7 @@
 | 13   | 27-04-2023   |Tutorial 4- Ahmdahl's Law            | [T4-27.04.2023](https://drive.google.com/file/d/1aR2TuIKSF4kfBZKjR8br51UXEb8PSmUw/view?usp=share_link)|
 
 
+![Routine](https://user-images.githubusercontent.com/15830810/235149141-81f21afa-bb32-43cc-8760-cb21e8f89cf2.png)
+
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
