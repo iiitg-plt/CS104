@@ -1,5 +1,5 @@
 Timetable for CS104
-![Routine](https://user-images.githubusercontent.com/15830810/235149141-81f21afa-bb32-43cc-8760-cb21e8f89cf2.png)
+![Routine-cs104](https://user-images.githubusercontent.com/15830810/235149141-81f21afa-bb32-43cc-8760-cb21e8f89cf2.png)
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
