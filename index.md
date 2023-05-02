@@ -1,4 +1,4 @@
-#[Attendance](https://docs.google.com/spreadsheets/d/1qEXCWHOhq2UJT0WYqT6Tmd22ofsCZHlCO8q-LfPA-uY/edit?usp=sharing)
+Check your [Attendance](https://docs.google.com/spreadsheets/d/1qEXCWHOhq2UJT0WYqT6Tmd22ofsCZHlCO8q-LfPA-uY/edit?usp=sharing)
 
 Timetable for CS104
 ![Routine](https://user-images.githubusercontent.com/15830810/235150234-f1712579-04c2-4c8e-bca4-ccc5495604b2.png)
