@@ -24,7 +24,7 @@ Timetable for CS104
 | 14   | 2-05-2023   |Lecture 10- IEEE Floating Point Arithmetic| [02.05.2023](https://drive.google.com/file/d/1wT-kIjar3h5gikEbzAU5iak-NBH0sFc5/view?usp=share_link)|
 | 15   | 3-05-2023   |Lecture 11- Instruction Set Architecture| [03.05.2023](https://drive.google.com/file/d/1Z3KjEMpZT6VjEyXnRGn0FrUlozLPtP1S/view?usp=share_link)|
 | 16   | 4-05-2023   |Lecture 12- Addressing Mode| [04.05.2023](https://drive.google.com/file/d/16Z7Xb1UJzAL8DzdFQqNPe9EpppsKzWXW/view?usp=share_link)|
-| 17   | 4-05-2023   |Tutorial 5- IEEE Floating Point Addtion and Subtraction| [4.05.2023](https://drive.google.com/file/d/13VhfqY95gM_pvGJhD33nybHHlAx5v7yQ/view?usp=share_link)|
+| 17   | 4-05-2023   |Tutorial 5- IEEE Floating Point Addtion and Subtraction| [04.05.2023](https://drive.google.com/file/d/13VhfqY95gM_pvGJhD33nybHHlAx5v7yQ/view?usp=share_link)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
