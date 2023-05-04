@@ -1,3 +1,5 @@
+# Class Test on 12.05.2023, Friday, 2:15 pm
+
 Check your [Attendance](https://docs.google.com/spreadsheets/d/1qEXCWHOhq2UJT0WYqT6Tmd22ofsCZHlCO8q-LfPA-uY/edit?usp=sharing)
 
 Timetable for CS104
