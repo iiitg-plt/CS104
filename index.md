@@ -25,6 +25,7 @@ Timetable for CS104
 | 15   | 3-05-2023   |Lecture 11- Instruction Set Architecture| [03.05.2023](https://drive.google.com/file/d/1Z3KjEMpZT6VjEyXnRGn0FrUlozLPtP1S/view?usp=share_link)|
 | 16   | 4-05-2023   |Lecture 12- Addressing Mode| [04.05.2023](https://drive.google.com/file/d/16Z7Xb1UJzAL8DzdFQqNPe9EpppsKzWXW/view?usp=share_link)|
 | 17   | 4-05-2023   |Tutorial 5- IEEE Floating Point Addtion and Subtraction| [T5-04.05.2023](https://drive.google.com/file/d/13VhfqY95gM_pvGJhD33nybHHlAx5v7yQ/view?usp=share_link)|
+| 18   | 9-05-2023   | MIPS Addressing Modes, ISA, Instruction Format| [09.05.2023](https://drive.google.com/file/d/1BnMQ6xDFRoxTVq79VpsYN-cwI4OWHHxi/view?usp=share_link) [Instruction Format- Extra Reading](https://max.cs.kzoo.edu/cs230/Resources/MIPS/MachineXL/InstructionFormats.html)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
