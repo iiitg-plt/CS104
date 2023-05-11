@@ -1,14 +1,14 @@
 # Class Test on 12.05.2023, Friday, 2:15 - 2:45 pm
-#Seating Plan  
-#[C13: Roll-No-2201001-2201051](https://drive.google.com/file/d/1rx4CSdNueqdclptaWMaPffoDRM-SXC3m/view?usp=share_link)
-#[C2: Roll-No-2201052-2201087](https://drive.google.com/file/d/1gq8NoPVm4MMemadQ1jWJzpWxlsaS8Abj/view?usp=share_link)
-#[C7: Roll-No-2201088-2201122](https://drive.google.com/file/d/1-vkCAqZ81jakXzogAebC2askBkC2XWaY/view?usp=share_link)
-#[C8: Roll-No-2201123-2201159](https://drive.google.com/file/d/1SL3WuFSk52vksp22-YeEsp_JSq2k76Sq/view?usp=share_link)
-#[C4: Roll-No-2201160-2201179](https://drive.google.com/file/d/19E9Yn85hUZuQWiB75AKxjTaaybqpBhTz/view?usp=share_link)
-#[C5: Roll-No-2201180-2201201](https://drive.google.com/file/d/1Uud5epweslcxdKEf3mfzNqIFsQmsLj7v/view?usp=share_link)
-#[C6: Roll-No-2201202-2201222](https://drive.google.com/file/d/1JN3ONaKUtZ8PLrGBYCwZDhbzWorBeloR/view?usp=share_link)
-#[C11: Roll-No-2201223-2201232](https://drive.google.com/file/d/1FqR3SjZGBlqXofD0bWc2vfF85A8pAL2p/view?usp=share_link)
-#[C12: Roll-No-2201233-2201244](https://drive.google.com/file/d/19chol612jqXvzR29I3AQU6_mTQlJRr6Q/view?usp=share_link)
+# Seating Plan  
+# [C13: Roll-No-2201001-2201051](https://drive.google.com/file/d/1rx4CSdNueqdclptaWMaPffoDRM-SXC3m/view?usp=share_link)
+# [C2: Roll-No-2201052-2201087](https://drive.google.com/file/d/1gq8NoPVm4MMemadQ1jWJzpWxlsaS8Abj/view?usp=share_link)
+# [C7: Roll-No-2201088-2201122](https://drive.google.com/file/d/1-vkCAqZ81jakXzogAebC2askBkC2XWaY/view?usp=share_link)
+# [C8: Roll-No-2201123-2201159](https://drive.google.com/file/d/1SL3WuFSk52vksp22-YeEsp_JSq2k76Sq/view?usp=share_link)
+# [C4: Roll-No-2201160-2201179](https://drive.google.com/file/d/19E9Yn85hUZuQWiB75AKxjTaaybqpBhTz/view?usp=share_link)
+# [C5: Roll-No-2201180-2201201](https://drive.google.com/file/d/1Uud5epweslcxdKEf3mfzNqIFsQmsLj7v/view?usp=share_link)
+# [C6: Roll-No-2201202-2201222](https://drive.google.com/file/d/1JN3ONaKUtZ8PLrGBYCwZDhbzWorBeloR/view?usp=share_link)
+# [C11: Roll-No-2201223-2201232](https://drive.google.com/file/d/1FqR3SjZGBlqXofD0bWc2vfF85A8pAL2p/view?usp=share_link)
+# [C12: Roll-No-2201233-2201244](https://drive.google.com/file/d/19chol612jqXvzR29I3AQU6_mTQlJRr6Q/view?usp=share_link)
 
 
 
