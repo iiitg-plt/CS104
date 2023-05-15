@@ -1,3 +1,7 @@
+### Anouncement-1: Class Test-1 papers will be shown this week during the tutorial classes. Absentees without valid reason will not be shown paper afterwards. 
+
+
+
 Check your [Attendance](https://docs.google.com/spreadsheets/d/1qEXCWHOhq2UJT0WYqT6Tmd22ofsCZHlCO8q-LfPA-uY/edit?usp=sharing)
 
 Timetable for CS104
