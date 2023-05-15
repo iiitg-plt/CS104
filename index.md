@@ -1,4 +1,5 @@
 ### Anouncement-1: Class Test-1 papers will be shown this week during the tutorial classes. Absentees without valid reason will not be shown paper afterwards. 
+### Announcement-2: Laptop is required for QTSpim installation for this week tutorial 
 
 
 
