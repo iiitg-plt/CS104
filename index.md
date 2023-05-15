@@ -26,6 +26,7 @@ Timetable for CS104
 | 18   | 9-05-2023   | MIPS Addressing Modes, ISA, Instruction Format| [09.05.2023](https://drive.google.com/file/d/1BnMQ6xDFRoxTVq79VpsYN-cwI4OWHHxi/view?usp=share_link),[Instruction Format- Extra Reading](https://max.cs.kzoo.edu/cs230/Resources/MIPS/MachineXL/InstructionFormats.html)|
 | 19   | 10-05-2023   | MIPS Continue| [10.05.2023](https://drive.google.com/file/d/1zkykZatbrhiMBRLcsGATXRKRlzanU65J/view?usp=share_link)|
 | 20   | 11-05-2023   | MIPS Subroutine| [11.05.2023](https://drive.google.com/file/d/12ctjMslrzsdZYILgQJKURy0dMWYBQpj6/view?usp=share_link)|
+| 21   | 11-05-2023   | Tutorial 6- IEEE Floating Point Multiplication and Divison| [T6-11.05.2023](https://drive.google.com/file/d/1LvkzoMUtYtBscDnHQ2Q-_GSDC99VfjD9/view?usp=share_link)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
