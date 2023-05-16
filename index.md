@@ -30,6 +30,6 @@ Timetable for CS104
 | 19   | 10-05-2023   | MIPS Continue| [10.05.2023](https://drive.google.com/file/d/1zkykZatbrhiMBRLcsGATXRKRlzanU65J/view?usp=share_link)|
 | 20   | 11-05-2023   | MIPS Subroutine| [11.05.2023](https://drive.google.com/file/d/12ctjMslrzsdZYILgQJKURy0dMWYBQpj6/view?usp=share_link)|
 | 21   | 11-05-2023   | Tutorial 6- IEEE Floating Point Multiplication and Division| [T6-11.05.2023](https://drive.google.com/file/d/1LvkzoMUtYtBscDnHQ2Q-_GSDC99VfjD9/view?usp=share_link)|
-
+| 22   | 16-05-2023   | MIPS Subroutine-Continue| [16.05.2023](https://drive.google.com/file/d/1NrXKRPFBycFVjRn69KcXoJDvg2YAuOOi/view?usp=sharing)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
