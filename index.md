@@ -32,5 +32,8 @@ Timetable for CS104
 | 21   | 11-05-2023   | Tutorial 6- IEEE Floating Point Multiplication and Division| [T6-11.05.2023](https://drive.google.com/file/d/1LvkzoMUtYtBscDnHQ2Q-_GSDC99VfjD9/view?usp=share_link)|
 | 22   | 16-05-2023   | Lecture 16-MIPS Subroutine-Continue| [16.05.2023](https://drive.google.com/file/d/1NrXKRPFBycFVjRn69KcXoJDvg2YAuOOi/view?usp=sharing)|
 | 23   | 17-05-2023   | Lecture 17-MIPS Pseudo-Instructions| [17.05.2023](https://drive.google.com/file/d/187_osgyzM3V3Gk697VRkexp4h8O7INg5/view?usp=share_link)|
+| 24   | 18-05-2023   | Lecture 18-MIPS Programming Concepts and Mid-Sem review| NA|
+| 25   | 18-05-2023   | Tutorial 7- QtSpim Installation and MIPS Programming-1| [18.05.2023](https://drive.google.com/file/d/1PGxSG2WLCgfHrQslMTb16LxpxLFHb1DK/view?usp=share_link)|
+
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
