@@ -1,5 +1,3 @@
-### Anouncement-1: Class Test-1 papers will be shown this week during the tutorial classes (First 10 minutes of the class, kindly come on time). Absentees without valid reason will not be shown paper afterwards. 
-### Announcement-2: Bring laptop to this week tutorial class. It is required for QTSpim installation. 
 ### Download [QTSpim](https://sourceforge.net/projects/spimsimulator/files/) 
 Check your [Attendance](https://docs.google.com/spreadsheets/d/1qEXCWHOhq2UJT0WYqT6Tmd22ofsCZHlCO8q-LfPA-uY/edit?usp=sharing)
 
