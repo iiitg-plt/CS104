@@ -39,5 +39,8 @@ Timetable for CS104
 | 25   | 18-05-2023   | Tutorial 7- QtSpim Installation and MIPS Programming-1| [18.05.2023](https://drive.google.com/file/d/1PGxSG2WLCgfHrQslMTb16LxpxLFHb1DK/view?usp=share_link)|
 | 26   | 30-05-2023   | Lecture 19- Design of Control Unit-1 | [30.05.2023](https://drive.google.com/file/d/1eHTbgZZuVehHqSRbrf3go7_BCuEFqdzX/view?usp=share_link)|
 | 27   | 31-05-2023   | Lecture 20- Design of Control Unit-2 | [31.05.2023](https://drive.google.com/file/d/179rdEMIiUOyWY1vbqV2jUEQnwIqEwxot/view?usp=share_link)|
+| 28   | 1-06-2023   | Lecture 20- Design of Control Unit-3 | [1.06.2023](https://drive.google.com/file/d/1K9689JwZsoyP5hv-XpfBFWDphzWjVHUw/view?usp=share_link)|
+
+
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
