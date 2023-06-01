@@ -1,3 +1,9 @@
+<span style="color:blue">
+### Important: Group Assignment for all the students
+### Write a MIPS program to read a floating point number from a user and convert it to IEEE 754 single precision. The final answer should be represented in hexedecimal format.
+</span>.
+  
+  
 ### Download [QTSpim](https://sourceforge.net/projects/spimsimulator/files/) 
 Check your [Attendance](https://docs.google.com/spreadsheets/d/1qEXCWHOhq2UJT0WYqT6Tmd22ofsCZHlCO8q-LfPA-uY/edit?usp=sharing)
 
