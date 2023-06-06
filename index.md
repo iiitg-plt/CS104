@@ -36,10 +36,14 @@ Timetable for CS104
 | 22   | 16-05-2023   | Lecture 16-MIPS Subroutine-Continue| [16.05.2023](https://drive.google.com/file/d/1NrXKRPFBycFVjRn69KcXoJDvg2YAuOOi/view?usp=sharing)|
 | 23   | 17-05-2023   | Lecture 17- MIPS Pseudo-Instructions| [17.05.2023](https://drive.google.com/file/d/187_osgyzM3V3Gk697VRkexp4h8O7INg5/view?usp=share_link)|
 | 24   | 18-05-2023   | Lecture 18- MIPS Programming Concepts and Mid-Sem review| NA|
-| 25   | 18-05-2023   | Tutorial 7- QtSpim Installation and MIPS Programming-1| [18.05.2023](https://drive.google.com/file/d/1PGxSG2WLCgfHrQslMTb16LxpxLFHb1DK/view?usp=share_link)|
+| 25   | 18-05-2023   | Tutorial 7- QtSpim Installation and MIPS Programming-1| [T7-18.05.2023](https://drive.google.com/file/d/1PGxSG2WLCgfHrQslMTb16LxpxLFHb1DK/view?usp=share_link)|
 | 26   | 30-05-2023   | Lecture 19- Design of Control Unit-1 | [30.05.2023](https://drive.google.com/file/d/1eHTbgZZuVehHqSRbrf3go7_BCuEFqdzX/view?usp=share_link)|
 | 27   | 31-05-2023   | Lecture 20- Design of Control Unit-2 | [31.05.2023](https://drive.google.com/file/d/179rdEMIiUOyWY1vbqV2jUEQnwIqEwxot/view?usp=share_link)|
 | 28   | 1-06-2023   | Lecture 21- Microprogrammed Control Unit | [1.06.2023](https://drive.google.com/file/d/1K9689JwZsoyP5hv-XpfBFWDphzWjVHUw/view?usp=share_link)|
+| 29   | 1-06-2023   | Tutorial 8- MIPS programming | [T8-1.06.2023](https://iiitg-plt.github.io/cs104/)|
+| 30   | 6-06-2023   | Lecture 22- MIPS Implementation-1 | [6.06.2023](https://drive.google.com/file/d/13FlqVYQPJvG9nGu3Vb_WCH5ND_HKmVnY/view?usp=drive_link)|
+
+
 
 
 
