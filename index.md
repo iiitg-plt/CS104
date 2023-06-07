@@ -41,7 +41,7 @@ Timetable for CS104
 | 27   | 31-05-2023   | Lecture 20- Design of Control Unit-2 | [31.05.2023](https://drive.google.com/file/d/179rdEMIiUOyWY1vbqV2jUEQnwIqEwxot/view?usp=share_link)|
 | 28   | 1-06-2023   | Lecture 21- Microprogrammed Control Unit | [1.06.2023](https://drive.google.com/file/d/1K9689JwZsoyP5hv-XpfBFWDphzWjVHUw/view?usp=share_link)|
 | 29   | 1-06-2023   | Tutorial 8- MIPS programming | [T8-1.06.2023](https://iiitg-plt.github.io/cs104/)|
-| 30   | 6-06-2023   | Lecture 22- MIPS Implementation-1 | [6.06.2023](https://drive.google.com/file/d/13FlqVYQPJvG9nGu3Vb_WCH5ND_HKmVnY/view?usp=drive_link)|
+| 30   | 6-06-2023   | Lecture 22- MIPS Implementation-I | [6.06.2023](https://drive.google.com/file/d/13FlqVYQPJvG9nGu3Vb_WCH5ND_HKmVnY/view?usp=drive_link)|
 | 31   | 7-06-2023   | Lecture 23- MIPS Implementation-II | [7.06.2023](https://drive.google.com/file/d/1w1SzIYlXmnqvEiTxOA1cfT1JJNDsf4dN/view?usp=drive_link)|
 
 
