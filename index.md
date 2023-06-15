@@ -45,7 +45,9 @@ Timetable for CS104
 | 31   | 7-06-2023   | Lecture 23- MIPS Implementation-II | [7.06.2023](https://drive.google.com/file/d/1w1SzIYlXmnqvEiTxOA1cfT1JJNDsf4dN/view?usp=drive_link)|
 | 32   | 8-06-2023   | Lecture 24- Pipelining the MIPS Datapath | [8.06.2023](https://drive.google.com/file/d/1bD1mxrwrJlimMmEDqTizsNZcrsNTv_46/view?usp=drive_link)|
 | 33   | 10-06-2023   | Lecture 25- Pipelining the MIPS Datapath-Cont | [10.06.2023](https://drive.google.com/file/d/1ClJbKgeXy9wMTNBtRRpsvajlpo9h7Lq5/view?usp=drive_link)|
-| 34   | 1-06-2023   | Tutorial 9- MIPS programming | [T9-8.06.2023](https://iiitg-plt.github.io/cs104/)|
-
+| 34   | 10-06-2023   | Tutorial 9- MIPS programming | [T9-8.06.2023](https://iiitg-plt.github.io/cs104/)|
+| 35   | 13-06-2023   | Lecture 26- Pipelining and Hazards | [13.06.2023](https://drive.google.com/file/d/1Vbhz5XKb1mRuc7ZWLy6vwnbedh-QhqMd/view?usp=drive_link)|
+| 36   | 14-06-2023   | Lecture 27- Continue | --"---|
+| 37   | 15-06-2023   | Lecture 28- Pipelining and Hazards-II | [15.06.2023](https://drive.google.com/file/d/1PbxHf4inFGXRsaTxKzo-eumdHKlrqOBZ/view?usp=drive_link)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
