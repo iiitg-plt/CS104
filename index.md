@@ -49,5 +49,6 @@ Timetable for CS104
 | 35   | 13-06-2023   | Lecture 26- Pipelining and Hazards | [13.06.2023](https://drive.google.com/file/d/1Vbhz5XKb1mRuc7ZWLy6vwnbedh-QhqMd/view?usp=drive_link)|
 | 36   | 14-06-2023   | Lecture 27- Continue | --"---|
 | 37   | 15-06-2023   | Lecture 28- Pipelining and Hazards-II | [15.06.2023](https://drive.google.com/file/d/1PbxHf4inFGXRsaTxKzo-eumdHKlrqOBZ/view?usp=drive_link)|
+| 38   | 15-06-2023   | Tutorial 10- Pipelining | [T10-15.06.2023](https://drive.google.com/file/d/1lj3Uud_-qu5tb8YNmwCJ9Tn2rpt3iHsx/view?usp=drive_link)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
