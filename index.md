@@ -53,6 +53,7 @@ Timetable for CS104
 | 39   | 20-06-2023   | Lecture 29- Reducing Branch Penalties | [20.06.2023](https://drive.google.com/file/d/174db-iVF1kG3o8f1Xvp0p3f6Kz4ii-CQ/view?usp=drive_link)|
 | 40   | 21-06-2023   |Lecture 30- Memory System | [21.06.2023](https://drive.google.com/file/d/19X7XuEVumFrE7hYAqUW8hxABMth4cooj/view?usp=drive_link)|
 | 41   | 22-06-2023   |Lecture 31- Memory Interleaving | [22.06.2023](https://drive.google.com/file/d/1ivoLKW2zVhy4-1W1b22Zc_lpywRNkR1_/view?usp=drive_link)|
+| 42   | 22-06-2023   |Tutorial 11- Pipelining-II | [T11-22.06.2023](https://drive.google.com/file/d/1Mqo2x4cJ3hmMZYkXJ2VyNVROqtngob8Z/view?usp=drive_link)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
