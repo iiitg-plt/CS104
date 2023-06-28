@@ -54,7 +54,8 @@ Timetable for CS104
 | 40   | 21-06-2023   |Lecture 30- Memory System | [21.06.2023](https://drive.google.com/file/d/19X7XuEVumFrE7hYAqUW8hxABMth4cooj/view?usp=drive_link)|
 | 41   | 22-06-2023   |Lecture 31- Memory Interleaving | [22.06.2023](https://drive.google.com/file/d/1ivoLKW2zVhy4-1W1b22Zc_lpywRNkR1_/view?usp=drive_link)|
 | 42   | 22-06-2023   |Tutorial 11- Pipelining-II | [T11-22.06.2023](https://drive.google.com/file/d/1Mqo2x4cJ3hmMZYkXJ2VyNVROqtngob8Z/view?usp=drive_link)|
-| 43   | 27-06-2023   |Lecture 32- Cache Memory | [27.06.2023](https://drive.google.com/file/d/1xNV_t2UXmKx3wC7EKrWpusRbtN5TZX98/view?usp=drive_link)|
+| 43   | 27-06-2023   |Lecture 32- Cache Memory-I | [27.06.2023](https://drive.google.com/file/d/1xNV_t2UXmKx3wC7EKrWpusRbtN5TZX98/view?usp=drive_link)|
+| 44   | 28-06-2023   |Lecture 33- Cache Memory-II | [28.06.2023](https://drive.google.com/file/d/1nZBlUB0lhvYsHxnsm5Fvr8A4I9eTdySt/view?usp=drive_link)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
