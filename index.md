@@ -1,9 +1,5 @@
-### This week the G12 Tutorial is scheduled on 28.06.2023, Wednesday, 2:00 - 2:55 pm. Venue - C1
-### Important: Group Assignment for all the students
-### Write a MIPS program to read a floating point number from a user and convert it to IEEE 754 single precision. The final answer should be represented in hexadecimal format.
-  
-  
-### Download [QTSpim](https://sourceforge.net/projects/spimsimulator/files/) 
+### CS104: Computer Organization and Architecture
+
 Check your [Attendance](https://docs.google.com/spreadsheets/d/1qEXCWHOhq2UJT0WYqT6Tmd22ofsCZHlCO8q-LfPA-uY/edit?usp=sharing)
 
 Timetable for CS104
