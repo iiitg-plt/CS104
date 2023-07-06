@@ -54,6 +54,6 @@ Timetable for CS104
 | 44   | 28-06-2023   |Lecture 33- Cache Memory-II | [28.06.2023](https://drive.google.com/file/d/1Ryvj0YuXOitJdjw8ZgYd5tgWU-7NTV6x/view?usp=drive_link)|
 | 45   | 04-07-2023   |Lecture 34- Cache Memory-III | [04.07.2023](https://drive.google.com/file/d/1g-KuLK9eCi7eZG6jIL_kcLo0gjbzikdx/view?usp=drive_link)|
 | 46   | 05-07-2023   |Lecture 35- Secondary Memory | [05.07.2023](https://drive.google.com/file/d/1O4MwD9Zf7iF3aoqTJvM-jK4pJ05hUHF4/view?usp=drive_link)|
-| 47   | 06-07-2023   |Lecture 36- Error Correction Code | [06.07.2023](https://iiitg-plt.github.io/cs104/)|
+| 47   | 06-07-2023   |Lecture 36- Error Correction Code | [06.07.2023](https://drive.google.com/file/d/15SzabM8aOmvJjH07mGfnynV-LKtz7gKr/view?usp=drive_link)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
