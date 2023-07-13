@@ -57,5 +57,8 @@ Timetable for CS104
 | 47   | 06-07-2023   |Lecture 36- Error Correction Code | [06.07.2023](https://drive.google.com/file/d/15SzabM8aOmvJjH07mGfnynV-LKtz7gKr/view?usp=drive_link)|
 | 48   | 06-07-2023   |Tutorial 12- Cache Memory | [T12-06.07.2023](https://drive.google.com/file/d/1Xk4t81t9u3gFJEY82rH-04dWGWE3MOus/view?usp=drive_link)|
 | 49   | 11-07-2023   |Lecture 37- Program Control I/O | [11.07.2023](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
+| 50   | 12-07-2023   |Lecture 38- Interrupts | [12.07.2023](https://drive.google.com/file/d/1aMh-jdMiDLX9d5CsOF1jVpHnqiOxuM9i/view?usp=drive_link)|
+| 51   | 13-07-2023   |Lecture 39- DMA | [13.07.2023](https://drive.google.com/file/d/1Qlzal8hadtfoO_zThOKgnlaTrIi15zQs/view?usp=drive_link)|
+| 52   | 13-07-2023   |Tutorial 13- Secondary Memory | [T13-13.07.2023](https://drive.google.com/file/d/1l-0nc94BSTJLq5tuWrp9w1ldjQtbM6m7/view?usp=drive_link)|
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
