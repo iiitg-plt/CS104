@@ -1,5 +1,5 @@
 ### CS104: Computer Organization and Architecture
-[Click here to check your attendance](https://docs.google.com/spreadsheets/d/16pXovtqYnxOtb6abzLrWC0GB1GsCJf1UUlrUh732P5E/edit?usp=drive_link)|
+[Click here to check your attendance](https://docs.google.com/spreadsheets/d/16pXovtqYnxOtb6abzLrWC0GB1GsCJf1UUlrUh732P5E/edit?usp=drive_link)
 
 | Sl. No. | Date of Lecture        | Topics  | Slides   |
 |:---:|:--:|:--|:--------------------------:|
