@@ -13,6 +13,9 @@
 | 9   | 17-04-2024   |Lecture 6- Ahmdahls                    | [17.04.2023](https://drive.google.com/file/d/1ihseOGxxuCNjzEY7CRF10lZVchlaKvNr/view?usp=drive_link)|
 | 10  | 18-04-2024   |Lecture 7- Instruction Execution     | [18.04.2023](https://drive.google.com/file/d/1z7r95xtcQa2i6rByawWUaSfobOC-H5z7/view?usp=drive_link)|
 | 11  | 19-04-2024   |Lecture 8- Memory Addressing     | [19.04.2023](https://drive.google.com/file/d/1RIfRh3UTI_1OQd_1OmlvLSsVLDT3-MsU/view?usp=drive_link)|
+| 12  | 22-04-2024   |Tutorial 3- MIPS rating   | [22.04.2023](https://drive.google.com/file/d/17E0UENhox4Q5FnICpUoy5VF0Qll-jQ6d/view?usp=drive_link)|
+| 13  | 24-04-2024   |Lecture 9- IEEE-754 Representation     | [24.04.2023](https://drive.google.com/file/d/1RdpqdYWVnJLHa5gq6nLRA8w1biC8Jqdr/view?usp=drive_link)|
+| 14  | 25-04-2024   |Lecture 10- IEEE-754-Arithmetic     | [25.04.2023](https://drive.google.com/file/d/1wT-kIjar3h5gikEbzAU5iak-NBH0sFc5/view?usp=drive_link)|
 
 
 
