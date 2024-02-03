@@ -1,7 +1,8 @@
 ### CS104: Computer Organization and Architecture
 
 ### IMP: Quiz 1 on February 5, 2024, Timing 5:15 pm 6:00 pm, [Seating Plan](https://docs.google.com/spreadsheets/d/1W0ee6QZloF8K8V4HFkLfQEj1I6fOVS11xoqgPEuVy30/edit?usp=drive_link)
-## Report atleast 5 minutes before the class, Calculator or any electronic gadget is strictly prohibited
+## Report atleast 5 minutes before the class, Calculator without the cover is permitted.
+## Any electronic gadget is strictly prohibited
 
 [Click here to check your attendance](https://docs.google.com/spreadsheets/d/16pXovtqYnxOtb6abzLrWC0GB1GsCJf1UUlrUh732P5E/edit?usp=drive_link)
 
