@@ -24,7 +24,7 @@
 | 15  | 29-01-2024   |Tutorial 4- Performance Metrics     | [29.01.2024](https://drive.google.com/file/d/17E0UENhox4Q5FnICpUoy5VF0Qll-jQ6d/view?usp=drive_link)|
 | 16  | 31-01-2024   |Lecture 11- ISA    | [31.01.2024](https://drive.google.com/file/d/1zr8tBhsQnr58KPvPD_y_LOaPVb8H3ddd/view?usp=drive_link)|
 | 17  | 1-02-2024   |Lecture 12- Addressing Modes    | [1.02.2024](https://drive.google.com/file/d/1WVlb-XnjVlNiJGrN3AomxIdKQ3W478Hv/view?usp=drive_link)|
-
+| 18  | 1-02-2024   |Lecture 13- MIPS Addressing Modes    | [1.02.2024](https://drive.google.com/file/d/1Y6Lp2AEjONl9sglAYbwKfXbv9raqb0sh/view?usp=drive_link)|
 
 
 
