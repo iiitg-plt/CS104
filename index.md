@@ -1,6 +1,6 @@
 ### CS104: Computer Organization and Architecture
 
-### Download QTSPIM [For Windows](https://sourceforge.net/projects/spimsimulator/files/latest/download) 
+### Download QTSPIM-[For Windows](https://sourceforge.net/projects/spimsimulator/files/latest/download) 
 
 [Click here to check your attendance](https://docs.google.com/spreadsheets/d/16pXovtqYnxOtb6abzLrWC0GB1GsCJf1UUlrUh732P5E/edit?usp=drive_link)
 
@@ -23,7 +23,8 @@
 | 16  | 31-01-2024   |Lecture 11- ISA    | [31.01.2024](https://drive.google.com/file/d/1zr8tBhsQnr58KPvPD_y_LOaPVb8H3ddd/view?usp=drive_link)|
 | 17  | 1-02-2024   |Lecture 12- Addressing Modes    | [1.02.2024](https://drive.google.com/file/d/1WVlb-XnjVlNiJGrN3AomxIdKQ3W478Hv/view?usp=drive_link)|
 | 18  | 1-02-2024   |Lecture 13- MIPS Addressing Modes    | [1.02.2024](https://drive.google.com/file/d/1Y6Lp2AEjONl9sglAYbwKfXbv9raqb0sh/view?usp=drive_link)|
-
+| 19  | 7-02-2024   |Cont-Lecture 13    | [7.02.2024](https://drive.google.com/file/d/1Y6Lp2AEjONl9sglAYbwKfXbv9raqb0sh/view?usp=drive_link)|
+| 20  | 8-02-2024   |Lecture 14- MIPS Cont    | [8.02.2024](https://drive.google.com/file/d/1zkykZatbrhiMBRLcsGATXRKRlzanU65J/view?usp=drive_link)|
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
