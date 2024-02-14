@@ -25,6 +25,15 @@
 | 18  | 1-02-2024   |Lecture 13- MIPS Addressing Modes    | [1.02.2024](https://drive.google.com/file/d/1Y6Lp2AEjONl9sglAYbwKfXbv9raqb0sh/view?usp=drive_link)|
 | 19  | 7-02-2024   |Cont-Lecture 13    | [7.02.2024](https://drive.google.com/file/d/1Y6Lp2AEjONl9sglAYbwKfXbv9raqb0sh/view?usp=drive_link)|
 | 20  | 8-02-2024   |Lecture 14- MIPS Cont    | [8.02.2024](https://drive.google.com/file/d/1zkykZatbrhiMBRLcsGATXRKRlzanU65J/view?usp=drive_link)|
+| 21  | 8-02-2024   |Tutorial 5-  IEEE Flaoting Point Arithmetic  | [8.02.2024](https://drive.google.com/file/d/1LvkzoMUtYtBscDnHQ2Q-_GSDC99VfjD9/view?usp=drive_link)|
+| 22  | 9-02-2024   |Lecture 14- Cont    | [9.02.2024](https://drive.google.com/file/d/1zkykZatbrhiMBRLcsGATXRKRlzanU65J/view?usp=drive_link)|
+| 23  | 12-02-2024   |Tutorial 6-  QTSpim  | [12.02.2024](https://drive.google.com/file/d/1PGxSG2WLCgfHrQslMTb16LxpxLFHb1DK/view?usp=drive_link)|
+| 24  | 14-02-2024   |Lecture 15-  MIPS Sub-Routine-I | [14.02.2024](https://drive.google.com/file/d/12ctjMslrzsdZYILgQJKURy0dMWYBQpj6/view?usp=drive_link)|
+| 25  | 15-02-2024   |Lecture 16-  MIPS Sub-Routine-II | [15.02.2024](https://drive.google.com/file/d/1NrXKRPFBycFVjRn69KcXoJDvg2YAuOOi/view?usp=drive_link)|
+| 26  | 16-02-2024   |Lecture 17-  MIPS Pseudo Instruction | [16.02.2024](https://drive.google.com/file/d/187_osgyzM3V3Gk697VRkexp4h8O7INg5/view?usp=drive_link)|
+
+### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
+
 
 
 Do not ask for request access. Use IIITG mail to access the presentations. Personal mail will not have access. Thank you. 
