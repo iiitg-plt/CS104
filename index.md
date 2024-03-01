@@ -31,7 +31,10 @@
 | 24  | 14-02-2024   |Lecture 15-  MIPS Sub-Routine-I | [14.02.2024](https://drive.google.com/file/d/12ctjMslrzsdZYILgQJKURy0dMWYBQpj6/view?usp=drive_link)|
 | 25  | 15-02-2024   |Lecture 16-  MIPS Sub-Routine-II | [15.02.2024](https://drive.google.com/file/d/1NrXKRPFBycFVjRn69KcXoJDvg2YAuOOi/view?usp=drive_link)|
 | 26  | 16-02-2024   |Lecture 17-  MIPS Pseudo Instruction | [16.02.2024](https://drive.google.com/file/d/187_osgyzM3V3Gk697VRkexp4h8O7INg5/view?usp=drive_link)|
-
+| 27  | 12-02-2024   |Tutorial 7-  MIPS Program  | [26.02.2024](https://drive.google.com/file/d/1LuPOCsia6V58IB5pWNLE7nh214gmA7DC/view?usp=drive_link)|
+| 28  | 28-02-2024   |Lecture 18-  Design of Control Unit-1 | [28.02.2024](https://drive.google.com/file/d/10d_nDXIxIvnikHhOonoo_bjxysLpJ_p5/view?usp=drive_link)|
+| 29  | 29-02-2024   |Lecture 19-  Design of Control Unit-2 | [29.02.2024](https://drive.google.com/file/d/179rdEMIiUOyWY1vbqV2jUEQnwIqEwxot/view?usp=drive_link)|
+| 30  | 29-02-2024   |Lecture 20-  Microprogrammed Control Unit | [29.02.2024](https://drive.google.com/file/d/1K9689JwZsoyP5hv-XpfBFWDphzWjVHUw/view?usp=drive_link)|
 
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
