@@ -38,6 +38,9 @@
 
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
+### [MIPS-Floating-Point-Lecture](https://people.cs.pitt.edu/~childers/CS0447/lectures/SlidesLab92Up.pdf)
+
+
 
 ## MIPS Program Examples 
 ### [1- Program to add 10 numbers stored in consecutive memory locations. The sum is stored in the 11th memory location](https://drive.google.com/file/d/1GP0-Fn0EGuvAWwcBj2_uVFlZXsjAmyyT/view?usp=drive_link)
