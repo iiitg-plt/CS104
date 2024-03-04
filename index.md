@@ -38,7 +38,8 @@
 
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
-### [MIPS-Floating-Point-Lecture](https://people.cs.pitt.edu/~childers/CS0447/lectures/SlidesLab92Up.pdf)
+### [MIPS-Floating-Point-Lecture-1](https://people.cs.pitt.edu/~childers/CS0447/lectures/SlidesLab92Up.pdf)
+### [MIPS-Floating-Point-Lecture-2](https://www.doc.ic.ac.uk/lab/secondyear/spim/node20.html)
 
 
 
