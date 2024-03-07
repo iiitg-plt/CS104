@@ -35,7 +35,10 @@
 | 28  | 28-02-2024   |Lecture 18-  Design of Control Unit-1 | [28.02.2024](https://drive.google.com/file/d/10d_nDXIxIvnikHhOonoo_bjxysLpJ_p5/view?usp=drive_link)|
 | 29  | 29-02-2024   |Lecture 19-  Design of Control Unit-2 | [29.02.2024](https://drive.google.com/file/d/179rdEMIiUOyWY1vbqV2jUEQnwIqEwxot/view?usp=drive_link)|
 | 30  | 29-02-2024   |Lecture 20-  Microprogrammed Control Unit | [29.02.2024](https://drive.google.com/file/d/1K9689JwZsoyP5hv-XpfBFWDphzWjVHUw/view?usp=drive_link)|
-
+| 31  | 4-03-2024   |Lecture 21-  MIPS-Implementation I | [4.03.2024](https://drive.google.com/file/d/13FlqVYQPJvG9nGu3Vb_WCH5ND_HKmVnY/view?usp=drive_link)|
+| 32  | 4-03-2024   |Tutorial 8-  MIPS Program | [4.03.2024](https://drive.google.com/file/d/1ukXiI6KdXyHnil5MLsxR1euFLwvmQs_Y/view?usp=drive_link)|
+| 33  | 6-03-2024   |Lecture 22-  MIPS-Implementation II | [6.03.2024](https://drive.google.com/file/d/1w1SzIYlXmnqvEiTxOA1cfT1JJNDsf4dN/view?usp=drive_link)|
+| 34  | 7-03-2024   |Lecture 23-  MIPS-Pipelining | [7.03.2024](https://drive.google.com/file/d/1bD1mxrwrJlimMmEDqTizsNZcrsNTv_46/view?usp=drive_link)|
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
 ### [MIPS-Floating-Point-Lecture-1](https://people.cs.pitt.edu/~childers/CS0447/lectures/SlidesLab92Up.pdf)
