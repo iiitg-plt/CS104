@@ -38,7 +38,9 @@
 | 31  | 4-03-2024   |Lecture 21-  MIPS-Implementation I | [4.03.2024](https://drive.google.com/file/d/13FlqVYQPJvG9nGu3Vb_WCH5ND_HKmVnY/view?usp=drive_link)|
 | 32  | 4-03-2024   |Tutorial 8-  MIPS Program | [4.03.2024](https://drive.google.com/file/d/1ukXiI6KdXyHnil5MLsxR1euFLwvmQs_Y/view?usp=drive_link)|
 | 33  | 6-03-2024   |Lecture 22-  MIPS-Implementation II | [6.03.2024](https://drive.google.com/file/d/1w1SzIYlXmnqvEiTxOA1cfT1JJNDsf4dN/view?usp=drive_link)|
-| 34  | 7-03-2024   |Lecture 23-  MIPS-Pipelining | [7.03.2024](https://drive.google.com/file/d/1bD1mxrwrJlimMmEDqTizsNZcrsNTv_46/view?usp=drive_link)|
+| 34  | 7-03-2024   |Lecture 23-  MIPS-Pipelining-I | [7.03.2024](https://drive.google.com/file/d/1bD1mxrwrJlimMmEDqTizsNZcrsNTv_46/view?usp=drive_link)|
+| 35  | 8-03-2024   |Lecture 24-  MIPS-Pipelining-II | [8.03.2024](https://drive.google.com/file/d/1ClJbKgeXy9wMTNBtRRpsvajlpo9h7Lq5/view?usp=drive_link)|
+
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
 ### [MIPS-Floating-Point-Lecture-1](https://people.cs.pitt.edu/~childers/CS0447/lectures/SlidesLab92Up.pdf)
