@@ -40,6 +40,14 @@
 | 33  | 6-03-2024   |Lecture 22-  MIPS-Implementation II | [6.03.2024](https://drive.google.com/file/d/1w1SzIYlXmnqvEiTxOA1cfT1JJNDsf4dN/view?usp=drive_link)|
 | 34  | 7-03-2024   |Lecture 23-  MIPS-Pipelining-I | [7.03.2024](https://drive.google.com/file/d/1bD1mxrwrJlimMmEDqTizsNZcrsNTv_46/view?usp=drive_link)|
 | 35  | 8-03-2024   |Lecture 24-  MIPS-Pipelining-II | [8.03.2024](https://drive.google.com/file/d/1ClJbKgeXy9wMTNBtRRpsvajlpo9h7Lq5/view?usp=drive_link)|
+| 36  | 11-03-2024   |Tutorial 9- Pipelining  | [11.03.2024](https://drive.google.com/file/d/1lj3Uud_-qu5tb8YNmwCJ9Tn2rpt3iHsx/view?usp=drive_link)|
+| 37  | 12-03-2024   |Lecture 25-  Pipelining and Hazards | [12.03.2024](https://drive.google.com/file/d/1Vbhz5XKb1mRuc7ZWLy6vwnbedh-QhqMd/view?usp=drive_link)|
+| 38  | 12-03-2024   |Lecture 26-  Hazards Continue| [12.03.2024](https://drive.google.com/file/d/1PbxHf4inFGXRsaTxKzo-eumdHKlrqOBZ/view?usp=drive_link)|
+| 39  | 13-03-2024   |Lecture 27-  Branch Prediction| [13.03.2024](https://drive.google.com/file/d/174db-iVF1kG3o8f1Xvp0p3f6Kz4ii-CQ/view?usp=drive_link)|
+| 40  | 14-03-2024   |Lecture 28-  Introduction to Memory| [14.03.2024](https://drive.google.com/file/d/19X7XuEVumFrE7hYAqUW8hxABMth4cooj/view?usp=drive_link)|
+| 41  | 14-03-2024   |Lecture 29-  Memory Interleaving| [14.03.2024](https://drive.google.com/file/d/1ivoLKW2zVhy4-1W1b22Zc_lpywRNkR1_/view?usp=drive_link)|
+| 42  | 14-03-2024   |Tutorial 10- Pipelining-II  | [14.03.2024](https://drive.google.com/file/d/1Mqo2x4cJ3hmMZYkXJ2VyNVROqtngob8Z/view?usp=drive_link)|
+
 
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
