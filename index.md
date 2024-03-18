@@ -47,7 +47,7 @@
 | 40  | 14-03-2024   |Lecture 28-  Introduction to Memory| [14.03.2024](https://drive.google.com/file/d/19X7XuEVumFrE7hYAqUW8hxABMth4cooj/view?usp=drive_link)|
 | 41  | 14-03-2024   |Lecture 29-  Memory Interleaving| [14.03.2024](https://drive.google.com/file/d/1ivoLKW2zVhy4-1W1b22Zc_lpywRNkR1_/view?usp=drive_link)|
 | 42  | 14-03-2024   |Tutorial 10- Pipelining-II  | [14.03.2024](https://drive.google.com/file/d/1Mqo2x4cJ3hmMZYkXJ2VyNVROqtngob8Z/view?usp=drive_link)|
-
+| 43  | 18-03-2024   |Tutorial 11- Pipelining-III  | [18.03.2024](https://drive.google.com/file/d/1Xb0cqd1w54kM0nNHplp0zSfjL_EjpsM8/view?usp=drive_link)|
 
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
