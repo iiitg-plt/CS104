@@ -48,6 +48,11 @@
 | 41  | 14-03-2024   |Lecture 29-  Memory Interleaving| [14.03.2024](https://drive.google.com/file/d/1ivoLKW2zVhy4-1W1b22Zc_lpywRNkR1_/view?usp=drive_link)|
 | 42  | 14-03-2024   |Tutorial 10- Pipelining-II  | [14.03.2024](https://drive.google.com/file/d/1Mqo2x4cJ3hmMZYkXJ2VyNVROqtngob8Z/view?usp=drive_link)|
 | 43  | 18-03-2024   |Tutorial 11- Pipelining-III  | [18.03.2024](https://drive.google.com/file/d/1Xb0cqd1w54kM0nNHplp0zSfjL_EjpsM8/view?usp=drive_link)|
+| 44  | 19-03-2024   |Lecture 30-  Cache Memory-I| [19.03.2024](https://drive.google.com/file/d/1xNV_t2UXmKx3wC7EKrWpusRbtN5TZX98/view?usp=drive_link)|
+| 45  | 20-03-2024   |Lecture 31-  Cache Memory-II| [20.03.2024](https://drive.google.com/file/d/1Ryvj0YuXOitJdjw8ZgYd5tgWU-7NTV6x/view?usp=drive_link)|
+| 46  | 21-03-2024   |Lecture 32-  Cache Memory-III| [21.03.2024](https://drive.google.com/file/d/1g-KuLK9eCi7eZG6jIL_kcLo0gjbzikdx/view?usp=drive_link)|
+| 47  | 21-03-2024   |Lecture 33-  Cache Memory-III-Cont| [21.03.2024](https://drive.google.com/file/d/1g-KuLK9eCi7eZG6jIL_kcLo0gjbzikdx/view?usp=drive_link)|
+| 48  | 22-03-2024   |Lecture 34-  Secondary Storage| [22.03.2024](https://drive.google.com/file/d/1O4MwD9Zf7iF3aoqTJvM-jK4pJ05hUHF4/view?usp=drive_link)|
 
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
