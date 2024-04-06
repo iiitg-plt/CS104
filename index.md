@@ -56,7 +56,7 @@
 | 49  | 3-04-2024   |Lecture 35- SSD and hamming Code | [3.04.2024](https://drive.google.com/file/d/15SzabM8aOmvJjH07mGfnynV-LKtz7gKr/view?usp=drive_link)|
 | 50  | 4-04-2024   |Lecture 36- I/O Fundamentals | [4.04.2024](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
 | 51  | 5-04-2024   |Lecture 37- I/O Cont | [5.04.2024](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
-| 52  | 6-04-2024   |Lecture 38- Interrupts | [6.04.2024](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
+| 52  | 6-04-2024   |Lecture 38- Interrupts | [6.04.2024](https://drive.google.com/file/d/1aMh-jdMiDLX9d5CsOF1jVpHnqiOxuM9i/view?usp=drive_link)|
 | 53  | 6-04-2024   |Lecture 39- DMA | [6.04.2024](https://drive.google.com/file/d/1Qlzal8hadtfoO_zThOKgnlaTrIi15zQs/view?usp=drive_link)|
 | 54  | 8-04-2024   |Tutorial 12- Secondary Storage | [8.04.2024](https://drive.google.com/file/d/1l-0nc94BSTJLq5tuWrp9w1ldjQtbM6m7/view?usp=drive_link)|
 
