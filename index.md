@@ -52,13 +52,14 @@
 | 45  | 20-03-2024   |Lecture 31-  Cache Memory-II| [20.03.2024](https://drive.google.com/file/d/1Ryvj0YuXOitJdjw8ZgYd5tgWU-7NTV6x/view?usp=drive_link)|
 | 46  | 21-03-2024   |Lecture 32-  Cache Memory-III| [21.03.2024](https://drive.google.com/file/d/1g-KuLK9eCi7eZG6jIL_kcLo0gjbzikdx/view?usp=drive_link)|
 | 47  | 21-03-2024   |Lecture 33-  Cache Memory-III-Cont| [21.03.2024](https://drive.google.com/file/d/1g-KuLK9eCi7eZG6jIL_kcLo0gjbzikdx/view?usp=drive_link)|
-| 48  | 22-03-2024   |Lecture 34-  Secondary Storage| [22.03.2024](https://drive.google.com/file/d/1O4MwD9Zf7iF3aoqTJvM-jK4pJ05hUHF4/view?usp=drive_link)|
-| 49  | 3-04-2024   |Lecture 35- SSD and hamming Code | [3.04.2024](https://drive.google.com/file/d/15SzabM8aOmvJjH07mGfnynV-LKtz7gKr/view?usp=drive_link)|
-| 50  | 4-04-2024   |Lecture 36- I/O Fundamentals | [4.04.2024](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
-| 51  | 5-04-2024   |Lecture 37- I/O Cont | [5.04.2024](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
-| 52  | 6-04-2024   |Lecture 38- Interrupts | [6.04.2024](https://drive.google.com/file/d/1aMh-jdMiDLX9d5CsOF1jVpHnqiOxuM9i/view?usp=drive_link)|
-| 53  | 6-04-2024   |Lecture 39- DMA | [6.04.2024](https://drive.google.com/file/d/1Qlzal8hadtfoO_zThOKgnlaTrIi15zQs/view?usp=drive_link)|
-| 54  | 8-04-2024   |Tutorial 12- Secondary Storage | [8.04.2024](https://drive.google.com/file/d/1l-0nc94BSTJLq5tuWrp9w1ldjQtbM6m7/view?usp=drive_link)|
+| 48  | 21-03-2024   |Tutorial 12- Cache memory | [21.03.2024](https://drive.google.com/file/d/1Xk4t81t9u3gFJEY82rH-04dWGWE3MOus/view?usp=drive_link)|
+| 49  | 22-03-2024   |Lecture 34-  Secondary Storage| [22.03.2024](https://drive.google.com/file/d/1O4MwD9Zf7iF3aoqTJvM-jK4pJ05hUHF4/view?usp=drive_link)|
+| 50  | 3-04-2024   |Lecture 35- SSD and hamming Code | [3.04.2024](https://drive.google.com/file/d/15SzabM8aOmvJjH07mGfnynV-LKtz7gKr/view?usp=drive_link)|
+| 51  | 4-04-2024   |Lecture 36- I/O Fundamentals | [4.04.2024](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
+| 52  | 5-04-2024   |Lecture 37- I/O Cont | [5.04.2024](https://drive.google.com/file/d/1WR_YDjeAYycjzklVbyb0Q7w73vJ9-KBl/view?usp=drive_link)|
+| 53  | 6-04-2024   |Lecture 38- Interrupts | [6.04.2024](https://drive.google.com/file/d/1aMh-jdMiDLX9d5CsOF1jVpHnqiOxuM9i/view?usp=drive_link)|
+| 54  | 6-04-2024   |Lecture 39- DMA | [6.04.2024](https://drive.google.com/file/d/1Qlzal8hadtfoO_zThOKgnlaTrIi15zQs/view?usp=drive_link)|
+| 55  | 8-04-2024   |Tutorial 13- Secondary Storage | [8.04.2024](https://drive.google.com/file/d/1l-0nc94BSTJLq5tuWrp9w1ldjQtbM6m7/view?usp=drive_link)|
 
 
 ### Additional Materials - [MIPS-Lecture](https://drive.google.com/file/d/1I5vmq8lOUm_97hmczTDdE4f-1hQ2yNPE/view?usp=drive_link)
